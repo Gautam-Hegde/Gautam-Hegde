@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gautam Hegde</h1>
-<h3 align="center">A passionate frontend developer from India | Open source enthusiast</h3>
+<h3 align="center"> Full Stack | Open source | DevOps </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="gautam-hegde" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautam-hegde" alt="gautam-hegde" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautam-hegde" alt="gautam-hegde" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
 - 💬 Ask me about **JavaScript**
 
-- ⚡ Fun fact **There are 10 types of people in this world, those who understand binary and those who don't!**
+- 📝 I regularly write articles on [https://gautam-hegde.github.io/blogs/](https://gautam-hegde.github.io/blogs/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
