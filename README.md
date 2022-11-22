@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam Hegde</h1>
-<h3 align="center"> Full Stack | Open source | DevOps </h3>
+<h3 align="center"> BlockChain | Open source | DevOps </h3>
 
 
 [![@gautamhegde's Holopin board](https://holopin.io/api/user/board?user=gautamhegde)](https://holopin.io/@gautamhegde)
