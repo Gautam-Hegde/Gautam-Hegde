@@ -11,7 +11,9 @@
 [![@gautamhegde's Holopin board](https://holopin.io/api/user/board?user=gautamhegde)](https://holopin.io/@gautamhegde)
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
+  <a href="https://leetcode.com/Gautam_Hegde" title="Redirects to leetcode profile">
   <img width="48%" src="https://leetcard.jacoblin.cool/Gautam_Hegde" />
+  </a>
   <img width="48%" src='https://github-readme-streak-stats.herokuapp.com/?user=Gautam-Hegde&theme=radical&hide_border=false' />
 </div>
 
